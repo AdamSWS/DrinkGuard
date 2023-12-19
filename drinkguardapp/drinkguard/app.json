@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "drinkguard",
+    "slug": "drinkguard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.company.drinkguard"
+    },
+    "ios": {
+      "bundleIdentifier": "com.company.drinkguard"
+    }
+  }
+}
